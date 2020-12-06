@@ -1,5 +1,6 @@
 package com.devlabs.lab1;
 
+//Car Class
 public class Car {
 
 	static int tyres = 4; // instance variables - for every instance, there will be a copy of instance
